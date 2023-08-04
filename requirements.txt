@@ -3,3 +3,6 @@ torchvision
 torchaudio
 jupyter
 matplotlib
+numpy
+pillow
+scipy
