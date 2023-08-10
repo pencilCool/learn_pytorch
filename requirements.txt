@@ -9,3 +9,6 @@ scipy
 opencv-python
 tensorboard
 visdom
+labelme
+jieba
+nltk

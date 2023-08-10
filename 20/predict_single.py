@@ -4,7 +4,7 @@ import numpy as np
 from PIL import Image
 
 img_size = (256, 256)
-unet = torch.load('./weights/unet_epoch_51.pth')
+unet = torch.load('./ckpts/unet_epoch_51.pth')
 
 unet.eval()
 
