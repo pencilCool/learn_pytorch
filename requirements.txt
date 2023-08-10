@@ -8,3 +8,4 @@ pillow
 scipy
 opencv-python
 tensorboard
+visdom
